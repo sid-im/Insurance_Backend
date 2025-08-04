@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+langchain
+langchain-groq
+langchain-community
+sentence-transformers
+faiss-cpu
+pypdf
+python-multipart
+rich
+nest_asyncio
+tqdm
+openai
+httpx
+pydantic
+python-dotenv
